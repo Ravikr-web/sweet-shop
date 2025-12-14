@@ -15,7 +15,6 @@ A full-stack MERN application for managing a sweet shop with user authentication
 - [Testing](#testing)
 - [My AI Usage](#my-ai-usage)
 - [Deployment](#deployment)
-- [Screenshots](#screenshots)
 
 ## ✨ Features
 
@@ -321,16 +320,6 @@ I used **GitHub Copilot** throughout this project to accelerate development whil
 1. Create a free cluster on MongoDB Atlas
 2. Update `MONGODB_URI` with your connection string
 3. Whitelist your server IP
-
-## 📸 Screenshots
-
-> Screenshots will be added after UI implementation
-
-### Login Page
-![Login](https://drive.google.com/file/d/1ZpkAskTZfzE4J5TaiNaPRNrVpoi8PYAY/view?usp=sharing)
-
-### Admin Panel****
-![Admin](https://drive.google.com/file/d/1XxYd_dzsXLpF_3K2akIGFJ54FSbHoeYL/view?usp=sharing)
 
 ## 📝 License
 
