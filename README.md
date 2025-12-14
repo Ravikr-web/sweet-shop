@@ -327,13 +327,10 @@ I used **GitHub Copilot** throughout this project to accelerate development whil
 > Screenshots will be added after UI implementation
 
 ### Login Page
-![Login](./screenshots/login.png)
+![Login](https://drive.google.com/file/d/1ZpkAskTZfzE4J5TaiNaPRNrVpoi8PYAY/view?usp=sharing)
 
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### Admin Panel
-![Admin](./screenshots/admin.png)
+### Admin Panel****
+![Admin](https://drive.google.com/file/d/1XxYd_dzsXLpF_3K2akIGFJ54FSbHoeYL/view?usp=sharing)
 
 ## 📝 License
 
