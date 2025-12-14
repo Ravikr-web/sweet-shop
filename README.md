@@ -341,7 +341,7 @@ This project is created for a TDD Kata assessment.
 
 ## 👤 Author
 
-**Ripak**
+**Ravi**
 
 ---
 
